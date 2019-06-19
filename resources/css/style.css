@@ -1,3 +1,23 @@
+body {
+  font-family: montserrat, sans-serif;
+
+}
+
+#bold {
+  font-weight: bold;
+}
+
+#light {
+  font-weight: 300;
+  color: #ba732c;
+  background-color: #484847;
+}
+
 @media query {
 
 }
+
+/* Color Palette */
+/* RED: #b85846, YELLOW: #dbb052, LIGHT TEAL: #91bea6, GREEN: #889a4f, GREY: #484847 */
+/* IN BETWEEN COLORS */
+/* RED-YELLOW(RUST): #ba732c, YELLOW-TEAL(DARK TEAL): #6e9183, TEAL-GREEN(DARK GREEN): #7e7c4b */
